@@ -41,6 +41,14 @@ The project was tested locally on Windows using fictional invoice documents.
 
 The demonstration uses simulated AI responses and does not require paid API calls.
 
+## Demo Screenshots
+
+### Extracted Invoice Data
+![Invoice processing demo](invoice-demo.png)
+
+### Processing Log and Error Detection
+![Processing log demo](processing-log-demo.png)
+
 ## Excel Report Structure
 
 The generated Excel workbook contains two worksheets:
